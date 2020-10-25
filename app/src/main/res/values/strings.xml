@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat!</string>
+    <string name="sign_in_to_app">Sign In to App</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in_using_number">Sign in using Number</string>
+    <string name="or">or</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
